@@ -5,14 +5,14 @@ import java.util.List;
 public interface GenericService<T> {
     
     
-     List<T> getAll() ;
+     public List<T> getAll() ;
     
-     T getById(Long id);
+     public T getById(Long id);
     
-     T create(T t);
+     public T create(T t);
     
-     T update(T t);
+     public T update(T t);
     
-     void delete(Long id);
+     public void delete(Long id);
     
 }
