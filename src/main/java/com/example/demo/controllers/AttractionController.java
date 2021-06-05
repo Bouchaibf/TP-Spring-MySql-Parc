@@ -51,5 +51,5 @@ public class AttractionController {
         this.attractionService.delete(id);
     }
 	
-
+    //
 }
