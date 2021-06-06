@@ -8,7 +8,7 @@ Modélisation et création d'une base de données avec MySql Workbench puis dév
 * Ajouter, supprimer, afficher un parc ou la liste des parcs 
 * Ajouter, supprimer, afficher une attraction ou la liste des attractions
 * Ajouter, supprimer, afficher un visiteur ou la liste des visiteurs
-* * Ajouter, supprimer, afficher un ticket ou la liste des tickets
+* Ajouter, supprimer, afficher un ticket ou la liste des tickets
 ### ----------------------------------------------------------------------
 * bouchaibfaham@gmail.com
 * https://www.linkedin.com/in/bouchaib-faham-5b9450179/
